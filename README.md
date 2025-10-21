@@ -224,15 +224,7 @@ This study successfully implemented an enhanced U-Net model for automated lung s
 
 This research underscores the potential of advanced segmentation techniques in improving medical imaging analysis, paving the way for more accurate and reliable diagnostic tools.
 
-## Author
 
-**Arnold Cobo**
-
-## Feedback
-
-Enjoy using this project! If you have any comments, constructive criticism, or bug reports, please feel free to [open an issue](https://github.com/CoboAr/Lung-Mask-Segmentation-with-U-Net/issues) on this repository. Your feedback is greatly appreciated.
-
-## Contact
 
 For direct communication, you can reach me at [cobo.arnold@gmail.com](mailto:cobo.arnold@gmail.com).
 
