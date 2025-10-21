@@ -222,10 +222,6 @@ This study successfully implemented an enhanced U-Net model for automated lung s
 - **Computational Constraints**: The requirement for smaller batch sizes due to computational limits may affect the efficiency of training.
 - **Need for Further Testing**: Additional testing on more diverse datasets is necessary to confirm the model’s generalizability and robustness across different clinical scenarios.
 
-This research underscores the potential of advanced segmentation techniques in improving medical imaging analysis, paving the way for more accurate and reliable diagnostic tools.
 
-
-
-For direct communication, you can reach me at [cobo.arnold@gmail.com](mailto:cobo.arnold@gmail.com).
 
 
